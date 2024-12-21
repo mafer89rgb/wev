@@ -23,7 +23,7 @@ h1, h2 {
 .hero {
     position: relative;
     height: 30vh;
-    background: url(assets/background.jpg);
+    background: url(background.jpg);
     color: white;
     display: flex;
     align-items: center;
